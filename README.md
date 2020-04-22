@@ -1,6 +1,8 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+- This repo contains my implementation of OpenstreetMap Route planner project that is the first project in [`Udacity C++ Nanodegree`](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
+
+- The application finds the shortest path between two locations on a map using `A* Algorithm`.
 
 <img src="map.png" width="600" height="450" />
 
